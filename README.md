@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usenobong Etokakpan</h1>
 <h3 align="center">A passionate Frontend developer from Nigeria</h3>
 
-<p align="left"> <a href="https://twitter.com/jabulaniusen" target="blank"><img src="https://img.shields.io/twitter/follow/jabulaniusen?logo=twitter&style=for-the-badge" alt="jabulaniusen" /></a> </p>
+<p " target="blank"><img src="https://img.shields.io/twitter/follow/jabulaniusen?logo=twitter&style=for-the-badge" alt="jabulaniusen" /></a> </p>
 
 - 🔭 I’m currently working on [Hotelrev](https://hotelrev.vercel.app/)
 
